@@ -1,0 +1,4 @@
+# allow external access only to some selected .php files
+<FilesMatch "i18n-tools.php">
+Require all granted
+</FilesMatch>
