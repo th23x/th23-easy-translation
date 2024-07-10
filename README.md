@@ -59,7 +59,7 @@ To start translation into a new language or update an existing translation file 
 
 ## 🤝 Contributors
 
-Feel free to [raise issues](/issues) or [contribute code](/pulls) for improvements via GitHub.
+Feel free to [raise issues](../../issues) or [contribute code](../../pulls) for improvements via GitHub.
 
 
 ## ©️ License
